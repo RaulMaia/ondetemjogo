@@ -1,8 +1,8 @@
 package br.com.ondetemjogo.domain;
 
 public class State {
-     private long idState;
+     private Long idState;
      private String name;
-     private String iso;
+     private String UF;
 }
 
