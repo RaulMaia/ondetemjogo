@@ -5,5 +5,5 @@ public class Establishment {
      private String name;
      private String category;
      private String description;
-     private Long idCity;
+     private City city;
 }
