@@ -1,8 +1,9 @@
 package br.com.ondetemjogo.domain;
+java.util.List;
 
 public class RelUserEstablishment {
 	private Long idRelUserEstablishment;
-	private Event event;
+	private List event;
 	private Establishment establishment;
 	private User user;
 
