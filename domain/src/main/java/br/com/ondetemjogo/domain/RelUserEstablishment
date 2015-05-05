@@ -1,0 +1,9 @@
+package br.com.ondetemjogo.domain;
+
+public class RelUserEstablishment {
+	private Long idRelUserEstablishment;
+	private Event event;
+	private Establishment establishment;
+	private User user;
+
+}
